@@ -1,0 +1,8 @@
+{
+  "name": "Javid Group Landing Page Farsi Share",
+  "description": "High-end, premium interactive presentation landing page for Javid Group luxury real estate development housing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

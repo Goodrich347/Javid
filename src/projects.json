@@ -1,0 +1,126 @@
+[
+  {
+    "id": "velanjak",
+    "slug": "velanjak-residential",
+    "titlePersian": "پروژه مسکونی لوکس ولنجک",
+    "titleEnglish": "Velanjak Premium Residence",
+    "locationPersian": "تهران، ارتفاعات ولنجک (منطقه ۱)",
+    "locationEnglish": "Tehran, Velanjak Hills (District 1)",
+    "architectPersian": "علیرضا تقابونی (دفتر معماری دیگر)",
+    "architectEnglish": "Alireza Taghaboni (Next Office)",
+    "area": "۷,۵۰۰ متر مربع",
+    "floors": "۱۰ طبقه (۷ طبقه مسکونی تک‌واحدی، ۳ طبقه مشاعات)",
+    "statusPersian": "مرحله نازک‌کاری و اجرای دکوراسیون داخلی مانیتور شده",
+    "statusEnglish": "Finishing phase and high-end interior detailing",
+    "progressPercent": 85,
+    "descriptionPersian": "شاهکار مشترک جاوید گروپ و دفتر معماری دیگر (علیرضا تقابونی). این سازه در دامنه‌های ولنجک واقع شده و با کنسول‌های معلق خیره‌کننده بتن اکسپوز و متریال لوکس چوب و سنگ تبلوریافته، تلفیق بی‌مرزی میان فضای درون و طبیعت دامنه‌های البرز ایجاد می‌نماید. فضاهای عمومی شامل لابی مجلل، استخر شیشه‌ای معلق، سالن جلسات، و روف‌گاردن ۴فصل است.",
+    "descriptionEnglish": "A landmark collaborative masterwork by Javid Group and Next Office (Alireza Taghaboni). Nestled on the scenic mountain hills of Velanjak, this building features spectacular cantilevered fair-faced concrete balconies, translating structural bravery into architectural poetry. Shared amenities include an infinity glass pool, grand lobby, private lounges, and a 360-degree panoramic sky garden.",
+    "mapCoords": { "x": 30, "y": 38 },
+    "isMajor": true,
+    "hasSketches": true,
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=90",
+      "interior": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+      "sketch": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1200&q=80",
+      "construction": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=1200&q=80"
+    },
+    "timeline": [
+      { "date": "۱۴۰۲/۰۲", "titlePersian": "گودبرداری و پایدارسازی دیواره‌ها", "titleEnglish": "Excavation & Shoring" },
+      { "date": "۱۴۰۲/۱۰", "titlePersian": "اتمام سازه و بتن‌ریزی سقف‌ها", "titleEnglish": "Superstructure Completion" },
+      { "date": "۱۴۰۳/۰۶", "titlePersian": "تکمیل دیوار چینی و سفت‌کاری", "titleEnglish": "Masonry & Core Shell" },
+      { "date": "۱۴۰۴/۰۱", "titlePersian": "نصب تاسیسات مکانیکی و الکترونیکی هوشمند", "titleEnglish": "Smart MEP Systems installation" },
+      { "date": "۱۴۰۵/۰۲ (کنونی)", "titlePersian": "نازک‌کاری مدرن و اجرای دکوراسیون داخلی", "titleEnglish": "Interior Finishing (Current Phase)" }
+    ]
+  },
+  {
+    "id": "saraye-yaser",
+    "slug": "saraye-yaser-niavaran",
+    "titlePersian": "پروژه لوکس سرای یاسر نیاوران",
+    "titleEnglish": "Saraye Yaser Luxury Residence",
+    "locationPersian": "تهران، نیاوران، خیابان یاسر",
+    "locationEnglish": "Tehran, Niavaran, Yaser St.",
+    "architectPersian": "علیرضا تقابونی (دفتر معماری دیگر)",
+    "architectEnglish": "Alireza Taghaboni (Next Office)",
+    "area": "۱۲,۰۰۰ متر مربع",
+    "floors": "۱۲ طبقه (۹ طبقه مسکونی تک‌واحدی، ۳ طبقه مشاعات فوق‌لوکس)",
+    "statusPersian": "اتمام سفت‌کاری و آغاز اجرای تاسیسات الکترومکانیکال",
+    "statusEnglish": "Superstructure completed, launching electromagnetic smart utilities",
+    "progressPercent": 60,
+    "descriptionPersian": "پروژه بی‌بدیل سرای یاسر نیاوران، بر بستر چالش حجم‌های چرخشی و شکست‌های زاویه‌دار نما توسط علیرضا تقابونی طراحی شده است. این ساختار دینامیک، خط آسمان نیاوران را با کیفیتی تندیس‌گون مزین می‌سازد و برای کلیه واحدها دید سه‌بعدی پانورامیک فراهم می‌آورد. مشاعات این مجتمع مجهز به هلی‌پد، هوم‌تیاتر خصوصی، کلوپ سلامتی و مجموعه آب‌درمانی شاهانه است.",
+    "descriptionEnglish": "The unmatched Saraye Yaser residence in Niavaran features spectacular rotational volumes and angular structural shifts designed by Alireza Taghaboni. This dynamic, sculptural shell redefines the skyline of northern Tehran, yielding 360-degree panoramic views of Tajrish and Tehran mountains and premium amenities like private wellness spa, smart home theater, and helipad.",
+    "mapCoords": { "x": 55, "y": 32 },
+    "isMajor": true,
+    "hasSketches": true,
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1600&q=90",
+      "interior": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+      "sketch": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80",
+      "construction": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1200&q=80"
+    },
+    "timeline": [
+      { "date": "۱۴۰۳/۰۱", "titlePersian": "تجهیز کارگاه و گودبرداری عمیق ۲۵ متری", "titleEnglish": "Site Mobilization & 25m Deep Excavation" },
+      { "date": "۱۴۰۳/۰۹", "titlePersian": "فونداسیون گسترده و عایق‌بندی چندلایه", "titleEnglish": "Mat Foundation & Multi-layer Waterproofing" },
+      { "date": "۱۴۰۴/۰۷", "titlePersian": "اتمام اسکلت فلزی با میراگرهای زلزله پیشرفته", "titleEnglish": "Steel Structure with Advanced Seismic Dampers" },
+      { "date": "۱۴۰۵/۰۲ (کنونی)", "titlePersian": "اتمام سفت‌کاری و بهینه‌سازی جریان هوا و متریال داخلی", "titleEnglish": "Structural Core Finished & Launching MEP Services" }
+    ]
+  },
+  {
+    "id": "darakeh",
+    "slug": "darakeh-mountain-villa",
+    "titlePersian": "پروژه ویلای صخره‌ای درکه",
+    "titleEnglish": "Darakeh Rockside Residence",
+    "locationPersian": "تهران، درکه (حاشیه صخره‌ای رودخانه)",
+    "locationEnglish": "Tehran, Darakeh (Riverside Rockface)",
+    "architectPersian": "شروین حسینی (براکت دیزاین استودیو)",
+    "architectEnglish": "Shervin Hosseini (Bracket Design Studio)",
+    "area": "۲,۸۰۰ متر مربع",
+    "floors": "۴ طبقه ویلایی معلق تندیس‌گون روی پایه‌های صخره‌ای",
+    "statusPersian": "انجام پایدارسازی ترانشه‌ها و فونداسیون ویژه صخره‌کوب",
+    "statusEnglish": "Slope stabilization, micro-piling, and anchors in heavy granite bedrock",
+    "progressPercent": 35,
+    "descriptionPersian": "پروژه‌ای کاملاً آوانگارد در دل صخره‌های گرانیتی درکه، اثری متمایز از شروین حسینی. معماری این اثر، دیالوگی شجاعانه میان دیواره‌های صخره‌ای خشن و سطوح شیشه‌ای و فلزی سیقلی است. ساختمان با اتصال‌های پین فولادی بر بدنه کوه تکیه زده و احساس بی‌وزنی کم‌نظیری را القا می‌کند. رودخانه طبیعی درکه به صورت ارگانیک از پیرامون و زیر پل تراز مسکونی این ویلا در جریان است.",
+    "descriptionEnglish": "A deeply avant-garde mountainside masterpiece in the steep granite cliffs of Darakeh, designed by Shervin Hosseini. The architectural dialogue contrasts massive raw bedrock with razor-thin horizontal glass planes. Steel tension rods suspend the volumes, evoking pure gravity-defying weightlessness. The mountain stream flows and echoes naturally underneath the lower suspension deck.",
+    "mapCoords": { "x": 16, "y": 52 },
+    "isMajor": true,
+    "hasSketches": false,
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1600&q=90",
+      "interior": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1200&q=80",
+      "sketch": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1200&q=80",
+      "construction": "https://images.unsplash.com/photo-1581094288338-2314dddb7ecc?auto=format&fit=crop&w=1200&q=80"
+    },
+    "timeline": [
+      { "date": "۱۴۰۳/۰۸", "titlePersian": "بررسی‌های ژئوتکنیکال صخره‌ای و نقشه‌برداری لیزری سه بعدی", "titleEnglish": "Geotechnical Analysis & 3D Laser Scanning" },
+      { "date": "۱۴۰۴/۰۲", "titlePersian": "طراحی شبیه‌سازی زلزله بر بستر صلب و نیلینگ پیشرفته", "titleEnglish": "Seismic simulation studies & Advanced rock anchoring/nailing" },
+      { "date": "۱۴۰۵/۰۲ (کنونی)", "titlePersian": "اتمام میکروپایل‌کوبی صخره‌ای و فونداسیون یکپارچه فولادی", "titleEnglish": "Rock Micro-piling & Monolithic Steel Foundation Construction" }
+    ]
+  },
+  {
+    "id": "project-a",
+    "slug": "project-a-niavaran",
+    "titlePersian": "پروژه پاسداران (آماده‌سازی زمین)",
+    "titleEnglish": "Pasداران Plot Project (Concept Phase)",
+    "locationPersian": "تهران، اقدسیه - آجودانیه (منطقه ۱)",
+    "locationEnglish": "Tehran, Ajudaniyeh - Aqdasiyeh",
+    "architectPersian": "جاوید گروپ آرکینکتس (در مرحله ارزیابی بیین‌المللی)",
+    "architectEnglish": "Javid Group Architects (International Competition Stage)",
+    "statusPersian": "فاز صفر - طراحی کانسپت‌های سه بعدی مدرن",
+    "statusEnglish": "Phase Zero - Conceptual and structural layout study",
+    "mapCoords": { "x": 75, "y": 48 },
+    "isMajor": false
+  },
+  {
+    "id": "project-b",
+    "slug": "project-b-elahiyeh",
+    "titlePersian": "برج مسکونی الهیه (مذاکره شهرداری)",
+    "titleEnglish": "Elahiyeh Premium Towers (Permit Phase)",
+    "locationPersian": "تهران، الهیه، خیابان فرشته",
+    "locationEnglish": "Tehran, Elahiyeh, Fereshteh St.",
+    "architectPersian": "در دست تعیین (بزرگان معماری معاصر ایران)",
+    "architectEnglish": "TBA (Master Architects of Iran)",
+    "statusPersian": "مرحله توافقات کمیسیون ماده ۵ و دریافت پروانه ساخت",
+    "statusEnglish": "Zoning approvals and building permits commission stage",
+    "mapCoords": { "x": 42, "y": 64 },
+    "isMajor": false
+  }
+]
